@@ -1,0 +1,10 @@
+transformers 
+torch 
+torchaudio 
+datasets 
+pyaudio 
+librosa 
+soundfile 
+sounddevice 
+wave 
+matplotlib
